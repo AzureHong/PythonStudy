@@ -1,0 +1,19 @@
+一、安装虚环境
+1. Windows环境中，先安装pip
+2. pip install virtualenv
+3. 安装完成后，为Flask创建一个虚拟环境
+    virtualenv flask
+
+4. Windows环境中，安装Flask以及其部分扩展
+pip install flask
+pip install flask-login
+pip install flask-openid
+pip install flask-mail
+pip install flask-sqlalchemy
+pip install sqlalchemy-migrate
+pip install flask-whooshalchemy
+pip install flask-wtf
+pip install flask-babel
+pip install guess_language
+pip install flipflop
+pip install coverage

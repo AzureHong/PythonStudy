@@ -1,0 +1,10 @@
+2018-04-19 官方手册阅读记录
+微核心：Flask旨在保持核心简单而易于扩展，其不会替你做出太多的决策，并且已经提供的决策能很容易的进行替换
+
+一、安装：默认使用最新版本的Python，环境为windows，其mac和linux后续补充
+1. 在相应项目根目录下创建虚拟环境：pip install virtualenv
+2. 在虚拟环境中创建flask：virtualenv flask
+3. 补充flask可能需要的包：按应用所需要的部分 install xxx
+
+
+
